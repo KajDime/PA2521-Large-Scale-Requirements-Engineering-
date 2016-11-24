@@ -18,5 +18,12 @@ Another interesting connection is made when the author is analysing the reasons 
 are at risk to become obsolete. However, at the highest risk of becoming obsolete requirements are the ones that are ambiguous, inconsistent or misunderstand. 
 Some of the requirements that are low risk to become obsolete are the ones that are related to legislation and law. 
 
+There is one critique that I can come up with regarding the type of data that the author is collecting and presenting.
+The author collects data via surveys and the questions in the surveys are regarding specific problems.
+Then the author presents the collected data which is indication that the problems are occurring. 
+Then the author goes on and presents reasoning based on academic articles on what could lead to these problems. 
+So what I would like to know is what the professionals think on these matters as well. 
+By doing so the author could have present where the academia and the industry don’t see eye to eye. 
+
 [1]	K. Wnuk, T. Gorschek, and S. Zahda, “Obsolete Software Requirements,” Inf. Softw. Technol., vol. 55, no. 6, p. 921, 2013.
 
