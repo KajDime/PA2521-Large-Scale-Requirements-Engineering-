@@ -1,4 +1,29 @@
-﻿Seminar 3
+﻿Seminar 1
+Release planning is consistent of two different approaches seen as the art and the science sides of release planning[2]. 
+In this article the author presents a methodology of release planning based on algorithm with three different unknowns.  
+The algorithm takes in to consideration features composed of requirements with high dependencies. 
+Another part is effort prioritising and the last step is prioritising the stakeholders. 
+Here the authors wanted to combine a scientific way of presenting decisions that can be confusing and complicated for the human mind to 
+consider each separate. 
+
+Each step is clearly described by the author and the article and the idea is easy to follow. 
+The authors take in to consideration three factors that are usually at odds with each other. 
+We might have interesting features but are either to costly or might be not needed or we might have a need and resources but the feature is unclear or confusing. 
+By using this algorithm, we can present features with numerical worth based of the need, complexity and the resources needed to develop. 
+Furthermore, the algorithm can suggest which release should include which feature. 
+I can see use of this algorithm in the real world. We could involve real stakeholders where they can vote and afterwards we can insert the results of the votes in to our system. 
+This will give us realistic presentation of what the stakeholders are interested in. Then we could present to the stakeholders the results so that we can reflect on them. 
+The results can be used as leverage when conflict arise. 
+
+From my perspective the mathematical explanations are hard to understand. 
+But regardless the explanations provided are easy to understand and the math becomes a little bit not important as long we understand the point that the author is trying to make. 
+The author intends the tool to be used as a simulator of different stake holders and then the manager can use the tool to compare his idea to the result of the tool. 
+I think that the intended use that the author presents this tool for is short sided. 
+Because if you have the stakeholders then the tool can be used by the stakeholders so that they can get better understanding of the dynamic of cost regarding development of software. 
+For example, if the stakeholder is not informed some features might be misunderstood as easy or cheap to develop. By using the tool, 
+the stakeholder can easily understand why they are wrong when they see the connections and dependencies that that feature has with other features. 
+
+Seminar 3
 Obsolete software requirements are requirements that make it in the release planning but are not implemented because of various reasons[1]. 
 Or as the author defined it: 
 “An obsolete software requirement is a software requirement (implemented or not) that is no longer required for the current release or future releases and, 
@@ -26,4 +51,4 @@ So what I would like to know is what the professionals think on these matters as
 By doing so the author could have present where the academia and the industry don’t see eye to eye. 
 
 [1]	K. Wnuk, T. Gorschek, and S. Zahda, “Obsolete Software Requirements,” Inf. Softw. Technol., vol. 55, no. 6, p. 921, 2013.
-
+[2]	G. Ruhe and M. O. Saliu, “The art and science of software release planning,” IEEE Softw., vol. 22, no. 6, pp. 47–53, 2005.
