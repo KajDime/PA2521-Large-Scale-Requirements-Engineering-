@@ -23,6 +23,32 @@ Because if you have the stakeholders then the tool can be used by the stakeholde
 For example, if the stakeholder is not informed some features might be misunderstood as easy or cheap to develop. By using the tool, 
 the stakeholder can easily understand why they are wrong when they see the connections and dependencies that that feature has with other features. 
 
+Requirements engineering is affected and has an effect on other phases on the project[3]. 
+Here the authors argue that there are many dependent variables regarding measuring of success of the project, requirements engineering project, and product. 
+The author presents a way to classify dependencies in different categories. The categories presented in the article are society, project, product, company, and requirements phase. 
+All these categories can be directly connected with the measurements of the success.
+
+The article is convincing and claims made by it are backed up by articles. The subject matter is easy to understand and follow. 
+I like the idea that success has different meanings when viewed from different perspectives. 
+For an example the commercial success of one product might not be directly a success for the company if the company loses money from other projects that were affected by 
+the development of that product. Another argument that I found interesting was regarding the improvement of the requirements engineering phase. 
+When measuring improvements on small areas the impact that these improvements have on the whole needs to be considered. For an example decreasing the elicitation and documentation 
+time might be improvement by itself but might have a negative effect on the project by whole. 
+This might lead to unclear requirements and make validation and verification harder to perform and less reliable when performed. 
+
+The study presents problems that are obvious but not easy to notice or recognise if not aware of them. 
+It is hard to find real issues with the paper without reviewing all of the presented references. 
+However, there might be a bit of confirmation bias in a sense that the article is not a literature review but it is aimed at a specific subject with a lot of arguments
+to support its claims. The author chooses articles that support his claims only. 
+However, this is not a big problem because the format of the article is such as that this validity threat is obvious and easy to forgive. 
+Because of that some arguments might be considered incorrect in certain circumstances. 
+We can take the previous example about the commercial success product. 
+In that case if that product is the only product that the company owns and the company does not have other projects that can be affected by the product then the statement 
+becomes incorrect. That is because the product can’t effect other projects in the way that we described. 
+There is still other perspectives that we can take and make similar claim apply in a similar way. That is why this I think that this tread to validity is not a significant one. 
+We can apply the teachings of the article and do mental gymnastics and still realise dependent variables where we did not see before. 
+
+
 Seminar 3
 Obsolete software requirements are requirements that make it in the release planning but are not implemented because of various reasons[1]. 
 Or as the author defined it: 
@@ -52,3 +78,4 @@ By doing so the author could have present where the academia and the industry do
 
 [1]	K. Wnuk, T. Gorschek, and S. Zahda, “Obsolete Software Requirements,” Inf. Softw. Technol., vol. 55, no. 6, p. 921, 2013.
 [2]	G. Ruhe and M. O. Saliu, “The art and science of software release planning,” IEEE Softw., vol. 22, no. 6, pp. 47–53, 2005.
+[3]	T. Gorschek and A. M. Davis, “Requirements engineering: In search of the dependent variables,” Inf. Softw. Technol., vol. 50, no. 1–2, pp. 67–75, Jan. 2008.
